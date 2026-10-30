@@ -1,0 +1,6 @@
+lose cabal 6
+win juror 5
+win sting 4
+win plaid 6
+win rally 3
+win shine 3
